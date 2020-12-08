@@ -1,4 +1,4 @@
-Altenrative Project 1:
+CMPUT 397 - Alternative Project 1:
 
 Members:
 Yahya Kisana (1556834)
